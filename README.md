@@ -1,2 +1,2 @@
 # kayitDefteri
-MVC Spring Web Tabanlı Kayıt Defteri
+Spring MVC Web Tabanlı Kayıt Defteri
